@@ -2,7 +2,6 @@
 	background-color: white;
 	height: 5200px; 
 	width: 1200px;
-/*	5400*/
 }
 .div1{
 	height: 400px;
@@ -20,8 +19,6 @@
 	padding: 10px;
 
 }
-
-
 .div1para1{
 	color: gray;
 	font-size: 15px;
@@ -39,9 +36,6 @@
 	font-weight: bold;
 	margin: 10px;
 }
-
-
-
 
 .div2{
 	height: 200px;
@@ -76,8 +70,6 @@
 	background-color: #d4d0f7;
 	width: 160px;
 }
-
-
 
 .div3{
 	height: 300px;
@@ -125,19 +117,6 @@
 	float: right;
 	border-radius: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 .div41{
 	background-color: white;
 	height: 200px;
@@ -170,19 +149,6 @@
 	color: gray;
 	font-size: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .div42{
 	height: 880px;
@@ -236,9 +202,6 @@
 	border-radius: 20px;
 }
 
-
-
-
 .div5{
 	height: 650px;
 	width: 1200px;
@@ -266,9 +229,6 @@
 .div5para{
 	font-size: 15px;
 }
-
-
-
 
 .div6{
 	height: 600px;
@@ -308,9 +268,6 @@
 	float: right;
 	border-width: 0px;
 }
-
-
-
 
 .div7{
 	height: 1000px;
@@ -376,9 +333,6 @@
 	border-radius: 40px;
 }
 
-
-
-
 .div8{
 	height: 400px;
 	width: 1200px;
@@ -410,9 +364,6 @@
 	margin: 10px;
 }
 
-
-
-
 .div9{
 	height: 320px;
 	width: 1200px;
@@ -430,10 +381,6 @@
 	width: 450px;
 	border-radius: 20px;
 }
-
-
-
-
 
 .div10{
 	height: 150px;
